@@ -1,0 +1,43 @@
+\documentclass[11pt]{article}
+\usepackage[a4paper, margin=2cm]{geometry}
+
+\usepackage{bibunits}
+% no section headings for References:
+\AtBeginEnvironment{bibunit}{\renewcommand\section[5]{}}
+
+% pandoc requirements
+% ===================
+
+\usepackage{hyperref}
+\usepackage{array}
+\providecommand{\tightlist}{%
+    \setlength{\itemindent}{0em}
+    \setlength{\itemsep}{1em}
+    \setlength{\parskip}{-.8em}
+    }
+\setlength{\leftmargini}{1em}
+\setlength{\parindent}{0cm}
+
+% Custom formatting 
+% =================
+
+% no page numbers
+\pagenumbering{gobble}
+% bullet points
+\renewcommand{\labelitemi}{\textsuperscript{.}}
+%sections
+\newcommand{\CVsection}[1]{{\vskip .8em \normalfont\scshape\Large#1}\vskip .4em\hrule\vskip .4em}
+\let\section\CVsection
+
+\begin{document}
+% Title
+  \begin{center}
+      {\normalfont\scshape\LARGE $title$ }\\
+      \vskip .1em%
+      {\normalfont\scshape $author$ } \\
+      $date$
+  \end{center}
+% Body
+$body$
+
+\end{document}

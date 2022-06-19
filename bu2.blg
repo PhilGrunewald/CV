@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2022)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: bu2.aux
+The style file: unsrt.bst
+Database file #1: /Users/pg/Documents/txt/phil.bib
+Warning--there's a number but no volume in Grunewald21
+Warning--there's a number but no volume in Satre-Meloy19a
+You've used 22 entries,
+            1791 wiz_defined-function locations,
+            582 strings with 7987 characters,
+and the built_in function-call counts, 4353 in all, are:
+= -- 394
+> -- 192
+< -- 6
++ -- 74
+- -- 52
+* -- 221
+:= -- 726
+add.period$ -- 68
+call.type$ -- 22
+change.case$ -- 26
+chr.to.int$ -- 0
+cite$ -- 24
+duplicate$ -- 225
+empty$ -- 402
+format.name$ -- 52
+if$ -- 984
+int.to.chr$ -- 0
+int.to.str$ -- 22
+missing$ -- 18
+newline$ -- 113
+num.names$ -- 22
+pop$ -- 65
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 113
+stack$ -- 0
+substring$ -- 163
+swap$ -- 62
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 34
+width$ -- 24
+write$ -- 240
+(There were 2 warnings)
