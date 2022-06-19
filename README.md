@@ -11,5 +11,7 @@ Features
 How to typeset
 --------------
 
-`python typeset.py PhilGrunewald.md`
+```zsh
+python typeset.py PhilGrunewald.md
+```
 
