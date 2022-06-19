@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.23)  19 JUN 2022 13:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.4.23)  19 JUN 2022 14:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -274,23 +274,23 @@ LaTeX Info: Redefining \nameref on input line 32.
 \openout4 = `.PhilGrunewald.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 53.
+(Font)              <10.95> on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 53.
+(Font)              <8> on input line 52.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 53.
+(Font)              <6> on input line 52.
 LaTeX Font Info:    Trying to load font information for OML+cmr on input line 1
-45.
+44.
 
 (/usr/local/texlive/2022basic/texmf-dist/tex/latex/base/omlcmr.fd
 File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OML/cmm/m/it' tried instead on input line 145.
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 144.
  [1
 
 {/usr/local/texlive/2022basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (28.90285pt too wide) in paragraph at lines 264--272
+Overfull \hbox (28.90285pt too wide) in paragraph at lines 263--271
 [][] 
  []
 
@@ -299,84 +299,11 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.273 \newpage
+l.272 \newpage
                [2] (./bu1.aux)
 \openout3 = `bu1.aux'.
 
-
-
-LaTeX Warning: Citation `Gleue21' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Satre20' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Grunewald20' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Grunewald20a' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Grunewald19' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Satre-Meloy19' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Ramirez19' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Grunewald18a' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Veliz18' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Grunewald18' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Ramirez18' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Eyre17' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Ramirez17' undefined on input line 281.
-
-
-LaTeX Warning: Citation `McKenna17' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Dodds15' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Grunewald14b' undefined on input line 281.
-
-
-LaTeX Warning: Citation `McKenna14a' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Torriti14' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Grun13a' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Grun12' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Grun11' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Grun06' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Booth05' undefined on input line 281.
-
-
-LaTeX Warning: Citation `Grun04' undefined on input line 281.
-
-(./bu1.bbl
+ (./bu1.bbl
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
@@ -387,124 +314,35 @@ No file bu.aux.
 (./bu2.aux)
 \openout3 = `bu2.aux'.
 
-
-
-LaTeX Warning: Citation `Grunewald21' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Diakonova19' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Satre-Meloy19a' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Grunewald18b' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Satre-Meloy18' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Grunewald17' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Grunewald16b' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Grunewald16a' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Topouzi16' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Grunewald16' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Grunewald15a' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Grunewald14a' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Grunewald14c' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Grunewald13' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Grun12d' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Grun12a' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Grun11b' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Grun10_WHEC' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Grun07b' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Grun07' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Cashmore01' undefined on input line 289.
-
-
-LaTeX Warning: Citation `Gower01' undefined on input line 289.
-
-(./bu2.bbl
+ (./bu2.bbl
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.51 
-      [4])
+      [4]) (./bu2.aux)
 No file bu.aux.
 (./bu3.aux)
 \openout3 = `bu3.aux'.
 
-
-
-LaTeX Warning: Citation `Grunewald19a' undefined on input line 297.
-
-
-LaTeX Warning: Citation `Grunewald14' undefined on input line 297.
-
-(./bu3.bbl
+ (./bu3.bbl
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.9 
-     [5])
+l.10 
+      [5]) (./bu3.aux)
 No file bu.aux.
 (./bu4.aux)
 \openout3 = `bu4.aux'.
 
-
-
-LaTeX Warning: Citation `Grunewald17a' undefined on input line 305.
-
-
-LaTeX Warning: Citation `Grun13b' undefined on input line 305.
-
-(./bu4.bbl)
+ (./bu4.bbl) (./bu4.aux)
 No file bu.aux.
 (./bu5.aux)
 \openout3 = `bu5.aux'.
 
-
-
-LaTeX Warning: Citation `Grun08' undefined on input line 313.
-
-(./bu5.bbl)
+ (./bu5.bbl) (./bu5.aux)
 No file bu.aux.
-
-Package bibunits Warning: Label(s) may have changed. Rerun to get cross-referen
-ces right.
-
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.}) has b
 een already used, duplicate ignored
@@ -512,20 +350,17 @@ een already used, duplicate ignored
                    \relax 
 l.317 \end{document}
                      [6] (./.PhilGrunewald.aux)
-
-LaTeX Warning: There were undefined references.
-
 Package rerunfilecheck Info: File `.PhilGrunewald.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 8073 strings out of 479719
- 128475 string characters out of 5880574
+ 8108 strings out of 479719
+ 128894 string characters out of 5880574
  433522 words of memory out of 5000000
- 25925 multiletter control sequences out of 15000+600000
+ 25952 multiletter control sequences out of 15000+600000
  473896 words of font info for 43 fonts, out of 8000000 for 9000
  319 hyphenation exceptions out of 8191
- 60i,6n,63p,319b,461s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 60i,6n,63p,320b,461s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/pg/Library/texlive/2022basic/texmf-var/fonts/pk/ljfour/jknappen/ec/t
 crm1095.600pk></usr/local/texlive/2022basic/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmbx10.pfb></usr/local/texlive/2022basic/texmf-dist/fonts/type1/public/a
@@ -535,7 +370,7 @@ lic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2022basic/texmf-dist/fonts/type1
 pe1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022basic/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022basic/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on .PhilGrunewald.pdf (6 pages, 128895 bytes).
+Output written on .PhilGrunewald.pdf (6 pages, 128935 bytes).
 PDF statistics:
  143 PDF objects out of 1000 (max. 8388607)
  118 compressed objects within 2 object streams

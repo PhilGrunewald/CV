@@ -6,7 +6,7 @@ Database file #1: /Users/pg/Documents/txt/phil.bib
 Warning--can't use both author and editor fields in Grunewald14
 You've used 2 entries,
             1791 wiz_defined-function locations,
-            462 strings with 4042 characters,
+            462 strings with 4048 characters,
 and the built_in function-call counts, 668 in all, are:
 = -- 58
 > -- 27

@@ -5,15 +5,15 @@
 Experience
 ==========
 
-**Department of Engineering Science** \hfill _April 2021 -- Present_
+**Department of Engineering Science** \hfill _2020 -- present_
 
 _Oxford Martin Fellow_ \hfill _University of Oxford_
 
-- Lead Researcher on ReNEW Project (Reconfiguring Energy Needs, Equity and Wellbeing)
+- Lead Researcher on the ReNEW study (Reconfiguring Energy Needs, Equity and Wellbeing)
 - Coordinating data collection and repository for longitudinal high resolution smart meter data
 - Recruited 200 participants and conduct demand side flexibility interventions
 
-**Oriel College** \hfill _2017 -- Present_
+**Oriel College** \hfill _2017 -- present_
 
 _Jackson Junior Research Fellow and College Tutor_ \hfill _University of Oxford_
 
@@ -90,7 +90,7 @@ _Diplom Witschafts-Ingenieur (FH)_ \hfill _Wedel, Germany and Budapest, Hungary_
 \vskip 0.4em
 **German Navy** \hfill   _1994 -- 1995_
 
-_Signalman - Morse, semaphore and boat-to-boat comms_ \hfill   _Minesweeper Frankenthal_
+_Signalman - Morse, semaphore and boat-to-boat communication_ \hfill   _Minesweeper Frankenthal_
 
 \vskip 0.4em
 **Herderschule Gymnasium** \hfill   _1988 -- 1994_
@@ -102,7 +102,7 @@ Professional and Personal Recognitions
 ======================================
 
 \parskip .2em
-Expert adviser to Department of Business, Industry and Industrial Strategy \hfill  _2020_
+Expert adviser to the Department of Business, Industry and Industrial Strategy \hfill  _2020_
 
 Appointed Senior Member of the Oxford Energy Society \hfill _2019_
 
@@ -166,7 +166,7 @@ Journal Publications
 \putbib[/Users/pg/Documents/txt/phil.bib]
 \end{bibunit}
 
-Conference Publications
+Peer Reviewed Conference Publications
 =======================
 
 \begin{bibunit}[unsrt]
